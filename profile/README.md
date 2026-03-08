@@ -1,34 +1,32 @@
 # Unimals 🐾
 
-**Unimals** builds practical AI agents, automation systems, and product tooling that help ideas move from concept to execution.
+**Unimals** builds practical AI agents, automation systems, and product tooling that turn ideas into execution.
 
 > **Unimal = Unique + Animal**  
-> Break free from mediocrity’s gravity and build with character.
+> Build with character.
 
-## What we do
-
-We create:
+## What we build
 
 - **AI agents** for real-world workflows
 - **Automation systems** that connect chat, tools, and operations
-- **Product infrastructure** that helps teams ship faster with clarity
-- **Experiments** that turn promising ideas into usable products
+- **Product tooling** that helps teams ship with clarity and speed
+- **Focused experiments** that turn promising ideas into usable products
 
-## What we care about
+## What we value
 
 - **Practicality over hype**
-- **Clear systems over chaos**
-- **Speed with operational discipline**
-- **Simple tools that compound over time**
+- **Clarity over chaos**
+- **Speed with discipline**
+- **Simple systems that compound**
 
 ## How we work
 
-- Build small, then scale what works
+- Start small, scale what works
 - Prefer working prototypes over theory
 - Keep feedback loops tight
-- Focus on useful outcomes, not performative complexity
+- Optimize for useful outcomes
 
-## Areas of focus
+## Focus areas
 
 - Agent workflows
 - Chat-native tooling
@@ -40,7 +38,7 @@ We create:
 
 If you care about agents, automation, and building useful things on the internet, welcome.
 
-We’re here to make AI more operational, more reliable, and more worth using.
+We’re building AI that is more operational, more reliable, and more worth using.
 
 ---
 
