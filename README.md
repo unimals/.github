@@ -1,5 +1,7 @@
 # Unimals 🐾
 
+Organization-level defaults, profile assets, and community standards for **Unimals**.
+
 Welcome to **Unimals** — a builder-friendly organization for practical AI agents, automation workflows, and useful tools.
 
 ## What we’re building
